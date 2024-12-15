@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.viptv.work/en/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://www.viptv.work/en/</id>
+  <title>VIPTV</title>
+  <subtitle> VIPTV Is The Highest Quality IPTV Service</subtitle>
+  <icon>https://www.viptv.work/favicon.ico</icon>
+  <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
+  <rights>MIT Licensed | Copyright © 2020-present Mr.HeFung</rights>
+  <updated>2024-12-15T15:47:25.690Z</updated>
+  <generator>@vuepress/plugin-feed</generator>
+  <link rel="self" href="https://www.viptv.work/en/atom.xml"/>
+  <link rel="alternate" href="https://www.viptv.work/en/"/>
+</feed>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.viptv.work/en/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://www.viptv.work/en/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>VIPTV</title>
+    <link>https://www.viptv.work/en/</link>
+    <description> VIPTV Is The Highest Quality IPTV Service</description>
+    <language>en-US</language>
+    <pubDate>Sun, 15 Dec 2024 15:47:25 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Dec 2024 15:47:25 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>MIT Licensed | Copyright © 2020-present Mr.HeFung</copyright>
+    <image>
+      <title>VIPTV</title>
+      <url>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</url>
+      <link>https://www.viptv.work/en/</link>
+    </image>
+  </channel>
+</rss>
