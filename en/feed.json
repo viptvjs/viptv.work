@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "VIPTV",
+  "title": "VIPTV - Work",
   "home_page_url": "https://www.viptv.work/en/",
   "feed_url": "https://www.viptv.work/en/feed.json",
-  "description": " VIPTV Is The Highest Quality IPTV Service",
+  "description": "VIPTV Is The Highest Quality IPTV Service",
   "icon": "https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png",
   "favicon": "https://www.viptv.work/favicon.ico",
   "items": []

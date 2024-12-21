@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://www.viptv.work/en/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>VIPTV</title>
+    <title>VIPTV - Work</title>
     <link>https://www.viptv.work/en/</link>
-    <description> VIPTV Is The Highest Quality IPTV Service</description>
+    <description>VIPTV Is The Highest Quality IPTV Service</description>
     <language>en-US</language>
-    <pubDate>Fri, 20 Dec 2024 16:30:24 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Dec 2024 16:30:24 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Dec 2024 14:35:01 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2024 14:35:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>MIT Licensed | Copyright © 2020-present Mr.HeFung</copyright>
     <image>
-      <title>VIPTV</title>
+      <title>VIPTV - Work</title>
       <url>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</url>
       <link>https://www.viptv.work/en/</link>
     </image>
