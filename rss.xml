@@ -6,8 +6,8 @@
     <link>https://www.viptv.work/</link>
     <description>便捷 、高效 、最有价值的视听链</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Feb 2025 16:28:10 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 16:28:10 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 16:25:31 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 16:25:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</copyright>
@@ -17,10 +17,11 @@
       <link>https://www.viptv.work/</link>
     </image>
     <category>公告</category>
-    <category>音乐电台</category>
     <category>网络电视</category>
+    <category>音乐电台</category>
     <category>私密频道</category>
     <category>影视点播</category>
+    <category>直播</category>
     <category>音乐</category>
     <category>都市台</category>
     <category>方言台</category>
@@ -28,9 +29,6 @@
     <category>交通台</category>
     <category>体育台</category>
     <category>网络台</category>
-    <category>文艺台</category>
-    <category>音乐台</category>
-    <category>资讯台</category>
     <item>
       <title>关于我们</title>
       <link>https://www.viptv.work/about/</link>
@@ -585,9 +583,13 @@
       <link>https://www.viptv.work/archives/</link>
       <guid>https://www.viptv.work/archives/</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-02-16 守护海洋巨兽 座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures) Download 1920 * 1080 | Download 3840 * 2160 2025-02-15 冰雪奇景 三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock) Download 1920...</description>
+      <description>2025-02-17 冰雪边界 Coll d&amp;apos;Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock) Download 1920 * 1080 | Download 3840 * 2160 2025-02-16 守护海洋巨兽 座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minde...</description>
       <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-02-16 守护海洋巨兽</h2>
+      <content:encoded><![CDATA[<h2>2025-02-17 冰雪边界</h2>
+<p>Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-16 守护海洋巨兽</h2>
 <p>座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -707,20 +709,8 @@
 <p>白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-01-17 完美的囊袋</h2>
-<p>褐鹈鹕，圣地亚哥，加利福尼亚州，美国 (© Arthur Morris/BIRDS AS ART/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>音乐电台</title>
-      <link>https://www.viptv.work/music/</link>
-      <guid>https://www.viptv.work/music/</guid>
-      <source url="https://www.viptv.work/rss.xml">音乐电台</source>
-      <category>音乐电台</category>
-      <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>网络电视</title>
@@ -728,6 +718,14 @@
       <guid>https://www.viptv.work/iptv/</guid>
       <source url="https://www.viptv.work/rss.xml">网络电视</source>
       <category>网络电视</category>
+      <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐电台</title>
+      <link>https://www.viptv.work/music/</link>
+      <guid>https://www.viptv.work/music/</guid>
+      <source url="https://www.viptv.work/rss.xml">音乐电台</source>
+      <category>音乐电台</category>
       <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
     </item>
     <item>
@@ -10857,9 +10855,13 @@
       <link>https://www.viptv.work/archives/2025/2025-02.html</link>
       <guid>https://www.viptv.work/archives/2025/2025-02.html</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-02-16 守护海洋巨兽 座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures) Download 1920 * 1080 | Download 3840 * 2160 2025-02-15 冰雪奇景 三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock) Download 1920...</description>
+      <description>2025-02-17 冰雪边界 Coll d&amp;apos;Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock) Download 1920 * 1080 | Download 3840 * 2160 2025-02-16 守护海洋巨兽 座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minde...</description>
       <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-02-16 守护海洋巨兽</h2>
+      <content:encoded><![CDATA[<h2>2025-02-17 冰雪边界</h2>
+<p>Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-16 守护海洋巨兽</h2>
 <p>座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -10924,7 +10926,47 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
+    </item>
+    <item>
+      <title>卫视频道</title>
+      <link>https://www.viptv.work/iptv/ws/wspd.html</link>
+      <guid>https://www.viptv.work/iptv/ws/wspd.html</guid>
+      <source url="https://www.viptv.work/rss.xml">卫视频道</source>
+      <description>卫视频道</description>
+      <category>直播</category>
+      <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">卫视频道</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>熊猫频道</title>
+      <link>https://www.viptv.work/iptv/ys/xiongmao.html</link>
+      <guid>https://www.viptv.work/iptv/ys/xiongmao.html</guid>
+      <source url="https://www.viptv.work/rss.xml">熊猫频道</source>
+      <description>熊猫频道</description>
+      <category>直播</category>
+      <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">熊猫频道</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>央视频道</title>
+      <link>https://www.viptv.work/iptv/ys/yspd.html</link>
+      <guid>https://www.viptv.work/iptv/ys/yspd.html</guid>
+      <source url="https://www.viptv.work/rss.xml">央视频道</source>
+      <description>央视频道 本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</description>
+      <category>直播</category>
+      <pubDate>Sat, 15 Feb 2025 16:26:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">央视频道</p>
+<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
+</div>
+]]></content:encoded>
     </item>
     <item>
       <title>户外</title>
@@ -11004,30 +11046,6 @@
       <guid>https://www.viptv.work/music/fm/wlt.html</guid>
       <source url="https://www.viptv.work/rss.xml">网络台</source>
       <category>网络台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>文艺台</title>
-      <link>https://www.viptv.work/music/fm/wyt.html</link>
-      <guid>https://www.viptv.work/music/fm/wyt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">文艺台</source>
-      <category>文艺台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐台</title>
-      <link>https://www.viptv.work/music/fm/yyt.html</link>
-      <guid>https://www.viptv.work/music/fm/yyt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">音乐台</source>
-      <category>音乐台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>资讯台</title>
-      <link>https://www.viptv.work/music/fm/zxt.html</link>
-      <guid>https://www.viptv.work/music/fm/zxt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">资讯台</source>
-      <category>资讯台</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
