@@ -6,8 +6,8 @@
     <link>https://www.viptv.work/</link>
     <description>便捷 、高效 、最有价值的视听链</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Feb 2025 16:33:09 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Feb 2025 16:33:09 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Feb 2025 16:31:11 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Feb 2025 16:31:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</copyright>
@@ -17,11 +17,10 @@
       <link>https://www.viptv.work/</link>
     </image>
     <category>公告</category>
-    <category>网络电视</category>
     <category>音乐电台</category>
+    <category>网络电视</category>
     <category>私密频道</category>
     <category>影视点播</category>
-    <category>直播</category>
     <category>音乐</category>
     <category>都市台</category>
     <category>方言台</category>
@@ -29,6 +28,9 @@
     <category>交通台</category>
     <category>体育台</category>
     <category>网络台</category>
+    <category>文艺台</category>
+    <category>音乐台</category>
+    <category>资讯台</category>
     <item>
       <title>关于我们</title>
       <link>https://www.viptv.work/about/</link>
@@ -583,9 +585,13 @@
       <link>https://www.viptv.work/archives/</link>
       <guid>https://www.viptv.work/archives/</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-02-27 极地关怀 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures) Download 1920 * 1080 | Download 3840 * 2160 2025-02-26 苏格兰战略的最佳体现 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty...</description>
+      <description>2025-02-28 在虎穴小憩 虎穴寺，不丹 (© Baron Reznik/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-02-27 极地关怀 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures) Downlo...</description>
       <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-02-27 极地关怀</h2>
+      <content:encoded><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-27 极地关怀</h2>
 <p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -705,20 +711,8 @@
 <p>南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-01-28 祝您阖家欢乐，万事如意！</h2>
-<p>夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>网络电视</title>
-      <link>https://www.viptv.work/iptv/</link>
-      <guid>https://www.viptv.work/iptv/</guid>
-      <source url="https://www.viptv.work/rss.xml">网络电视</source>
-      <category>网络电视</category>
-      <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>音乐电台</title>
@@ -726,6 +720,14 @@
       <guid>https://www.viptv.work/music/</guid>
       <source url="https://www.viptv.work/rss.xml">音乐电台</source>
       <category>音乐电台</category>
+      <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络电视</title>
+      <link>https://www.viptv.work/iptv/</link>
+      <guid>https://www.viptv.work/iptv/</guid>
+      <source url="https://www.viptv.work/rss.xml">网络电视</source>
+      <category>网络电视</category>
       <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
     </item>
     <item>
@@ -10855,9 +10857,13 @@
       <link>https://www.viptv.work/archives/2025/2025-02.html</link>
       <guid>https://www.viptv.work/archives/2025/2025-02.html</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-02-27 极地关怀 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures) Download 1920 * 1080 | Download 3840 * 2160 2025-02-26 苏格兰战略的最佳体现 莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty...</description>
+      <description>2025-02-28 在虎穴小憩 虎穴寺，不丹 (© Baron Reznik/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-02-27 极地关怀 北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures) Downlo...</description>
       <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-02-27 极地关怀</h2>
+      <content:encoded><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-27 极地关怀</h2>
 <p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -10966,47 +10972,7 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>卫视频道</title>
-      <link>https://www.viptv.work/iptv/ws/wspd.html</link>
-      <guid>https://www.viptv.work/iptv/ws/wspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">卫视频道</source>
-      <description>卫视频道</description>
-      <category>直播</category>
-      <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>熊猫频道</title>
-      <link>https://www.viptv.work/iptv/ys/xiongmao.html</link>
-      <guid>https://www.viptv.work/iptv/ys/xiongmao.html</guid>
-      <source url="https://www.viptv.work/rss.xml">熊猫频道</source>
-      <description>熊猫频道</description>
-      <category>直播</category>
-      <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>央视频道</title>
-      <link>https://www.viptv.work/iptv/ys/yspd.html</link>
-      <guid>https://www.viptv.work/iptv/ys/yspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">央视频道</source>
-      <description>央视频道 本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</description>
-      <category>直播</category>
-      <pubDate>Wed, 26 Feb 2025 16:31:04 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content:encoded>
+      <enclosure url="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>户外</title>
@@ -11086,6 +11052,30 @@
       <guid>https://www.viptv.work/music/fm/wlt.html</guid>
       <source url="https://www.viptv.work/rss.xml">网络台</source>
       <category>网络台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>文艺台</title>
+      <link>https://www.viptv.work/music/fm/wyt.html</link>
+      <guid>https://www.viptv.work/music/fm/wyt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">文艺台</source>
+      <category>文艺台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐台</title>
+      <link>https://www.viptv.work/music/fm/yyt.html</link>
+      <guid>https://www.viptv.work/music/fm/yyt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">音乐台</source>
+      <category>音乐台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>资讯台</title>
+      <link>https://www.viptv.work/music/fm/zxt.html</link>
+      <guid>https://www.viptv.work/music/fm/zxt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">资讯台</source>
+      <category>资讯台</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>

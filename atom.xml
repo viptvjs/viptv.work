@@ -6,16 +6,15 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-02-26T16:33:09.521Z</updated>
+  <updated>2025-02-27T16:31:11.816Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
   <category term="公告"/>
-  <category term="网络电视"/>
   <category term="音乐电台"/>
+  <category term="网络电视"/>
   <category term="私密频道"/>
   <category term="影视点播"/>
-  <category term="直播"/>
   <category term="音乐"/>
   <category term="都市台"/>
   <category term="方言台"/>
@@ -23,6 +22,9 @@
   <category term="交通台"/>
   <category term="体育台"/>
   <category term="网络台"/>
+  <category term="文艺台"/>
+  <category term="音乐台"/>
+  <category term="资讯台"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -609,10 +611,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-02-26T16:31:04.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-02-27 极地关怀</h2>
-<p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-02-27 极地关怀</h2>
+    <summary type="html"><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-27 极地关怀</h2>
 <p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -732,19 +738,7 @@
 <p>南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-01-28 祝您阖家欢乐，万事如意！</h2>
-<p>夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-02-26T16:31:04.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">网络电视</title>
-    <id>https://www.viptv.work/iptv/</id>
-    <link href="https://www.viptv.work/iptv/"/>
-    <updated>2025-02-26T16:31:04.000Z</updated>
-    <category term="网络电视"/>
     <published>2025-02-26T16:31:04.000Z</published>
   </entry>
   <entry>
@@ -753,6 +747,14 @@
     <link href="https://www.viptv.work/music/"/>
     <updated>2025-02-26T16:31:04.000Z</updated>
     <category term="音乐电台"/>
+    <published>2025-02-26T16:31:04.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络电视</title>
+    <id>https://www.viptv.work/iptv/</id>
+    <link href="https://www.viptv.work/iptv/"/>
+    <updated>2025-02-26T16:31:04.000Z</updated>
+    <category term="网络电视"/>
     <published>2025-02-26T16:31:04.000Z</published>
   </entry>
   <entry>
@@ -10964,10 +10966,14 @@
     <id>https://www.viptv.work/archives/2025/2025-02.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-02.html"/>
     <updated>2025-02-26T16:31:04.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-02-27 极地关怀</h2>
-<p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-02-27 极地关怀</h2>
+    <summary type="html"><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-02-28 在虎穴小憩</h2>
+<p>虎穴寺，不丹 (© Baron Reznik/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-02-27 极地关怀</h2>
 <p>北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11079,56 +11085,6 @@
     <published>2025-02-26T16:31:04.000Z</published>
   </entry>
   <entry>
-    <title type="text">卫视频道</title>
-    <id>https://www.viptv.work/iptv/ws/wspd.html</id>
-    <link href="https://www.viptv.work/iptv/ws/wspd.html"/>
-    <updated>2025-02-26T16:31:04.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-02-26T16:31:04.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">熊猫频道</title>
-    <id>https://www.viptv.work/iptv/ys/xiongmao.html</id>
-    <link href="https://www.viptv.work/iptv/ys/xiongmao.html"/>
-    <updated>2025-02-26T16:31:04.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-02-26T16:31:04.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">央视频道</title>
-    <id>https://www.viptv.work/iptv/ys/yspd.html</id>
-    <link href="https://www.viptv.work/iptv/ys/yspd.html"/>
-    <updated>2025-02-26T16:31:04.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-02-26T16:31:04.000Z</published>
-  </entry>
-  <entry>
     <title type="text">户外</title>
     <id>https://www.viptv.work/music/douyin/huwai.html</id>
     <link href="https://www.viptv.work/music/douyin/huwai.html"/>
@@ -11206,6 +11162,30 @@
     <link href="https://www.viptv.work/music/fm/wlt.html"/>
     <updated>2025-02-26T16:31:04.000Z</updated>
     <category term="网络台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">文艺台</title>
+    <id>https://www.viptv.work/music/fm/wyt.html</id>
+    <link href="https://www.viptv.work/music/fm/wyt.html"/>
+    <updated>2025-02-26T16:31:04.000Z</updated>
+    <category term="文艺台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">音乐台</title>
+    <id>https://www.viptv.work/music/fm/yyt.html</id>
+    <link href="https://www.viptv.work/music/fm/yyt.html"/>
+    <updated>2025-02-26T16:31:04.000Z</updated>
+    <category term="音乐台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">资讯台</title>
+    <id>https://www.viptv.work/music/fm/zxt.html</id>
+    <link href="https://www.viptv.work/music/fm/zxt.html"/>
+    <updated>2025-02-26T16:31:04.000Z</updated>
+    <category term="资讯台"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
