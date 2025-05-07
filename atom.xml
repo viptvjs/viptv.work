@@ -6,20 +6,22 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-05-06T16:33:47.471Z</updated>
+  <updated>2025-05-07T16:33:27.884Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
   <category term="公告"/>
-  <category term="网络电视"/>
   <category term="音乐电台"/>
+  <category term="网络电视"/>
   <category term="私密频道"/>
   <category term="影视点播"/>
-  <category term="直播"/>
   <category term="音乐"/>
   <category term="都市台"/>
   <category term="方言台"/>
   <category term="经济台"/>
+  <category term="交通台"/>
+  <category term="体育台"/>
+  <category term="网络台"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -606,10 +608,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-05-06T16:31:46.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-05-07 岩石上的城堡</h2>
-<p>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-05-07 岩石上的城堡</h2>
+    <summary type="html"><![CDATA[<h2>2025-05-08 值得大声欢呼的一天</h2>
+<p>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-05-08 值得大声欢呼的一天</h2>
+<p>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-05-07 岩石上的城堡</h2>
 <p>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -729,19 +735,7 @@
 <p>春天的水仙花在清晨绽放 (© LedyX/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-04-07 你好，海狸！</h2>
-<p>美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-05-06T16:31:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">网络电视</title>
-    <id>https://www.viptv.work/iptv/</id>
-    <link href="https://www.viptv.work/iptv/"/>
-    <updated>2025-05-06T16:31:46.000Z</updated>
-    <category term="网络电视"/>
     <published>2025-05-06T16:31:46.000Z</published>
   </entry>
   <entry>
@@ -750,6 +744,14 @@
     <link href="https://www.viptv.work/music/"/>
     <updated>2025-05-06T16:31:46.000Z</updated>
     <category term="音乐电台"/>
+    <published>2025-05-06T16:31:46.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络电视</title>
+    <id>https://www.viptv.work/iptv/</id>
+    <link href="https://www.viptv.work/iptv/"/>
+    <updated>2025-05-06T16:31:46.000Z</updated>
+    <category term="网络电视"/>
     <published>2025-05-06T16:31:46.000Z</published>
   </entry>
   <entry>
@@ -11350,10 +11352,14 @@
     <id>https://www.viptv.work/archives/2025/2025-05.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-05.html"/>
     <updated>2025-05-06T16:31:46.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-05-07 岩石上的城堡</h2>
-<p>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-05-07 岩石上的城堡</h2>
+    <summary type="html"><![CDATA[<h2>2025-05-08 值得大声欢呼的一天</h2>
+<p>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-05-08 值得大声欢呼的一天</h2>
+<p>Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-05-07 岩石上的城堡</h2>
 <p>邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11382,56 +11388,6 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-05-06T16:31:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">卫视频道</title>
-    <id>https://www.viptv.work/iptv/ws/wspd.html</id>
-    <link href="https://www.viptv.work/iptv/ws/wspd.html"/>
-    <updated>2025-05-06T16:31:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-05-06T16:31:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">熊猫频道</title>
-    <id>https://www.viptv.work/iptv/ys/xiongmao.html</id>
-    <link href="https://www.viptv.work/iptv/ys/xiongmao.html"/>
-    <updated>2025-05-06T16:31:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-05-06T16:31:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">央视频道</title>
-    <id>https://www.viptv.work/iptv/ys/yspd.html</id>
-    <link href="https://www.viptv.work/iptv/ys/yspd.html"/>
-    <updated>2025-05-06T16:31:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content>
-    <category term="直播"/>
     <published>2025-05-06T16:31:46.000Z</published>
   </entry>
   <entry>
@@ -11488,6 +11444,30 @@
     <link href="https://www.viptv.work/music/fm/jjt.html"/>
     <updated>2025-05-06T16:31:46.000Z</updated>
     <category term="经济台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">交通台</title>
+    <id>https://www.viptv.work/music/fm/jtt.html</id>
+    <link href="https://www.viptv.work/music/fm/jtt.html"/>
+    <updated>2025-05-06T16:31:46.000Z</updated>
+    <category term="交通台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">体育台</title>
+    <id>https://www.viptv.work/music/fm/tyt.html</id>
+    <link href="https://www.viptv.work/music/fm/tyt.html"/>
+    <updated>2025-05-06T16:31:46.000Z</updated>
+    <category term="体育台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络台</title>
+    <id>https://www.viptv.work/music/fm/wlt.html</id>
+    <link href="https://www.viptv.work/music/fm/wlt.html"/>
+    <updated>2025-05-06T16:31:46.000Z</updated>
+    <category term="网络台"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
