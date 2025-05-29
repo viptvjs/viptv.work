@@ -6,8 +6,8 @@
     <link>https://www.viptv.work/</link>
     <description>便捷 、高效 、最有价值的视听链</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 May 2025 16:34:39 GMT</pubDate>
-    <lastBuildDate>Wed, 28 May 2025 16:34:39 GMT</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 16:32:44 GMT</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 16:32:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</copyright>
@@ -17,17 +17,15 @@
       <link>https://www.viptv.work/</link>
     </image>
     <category>公告</category>
-    <category>音乐电台</category>
     <category>网络电视</category>
+    <category>音乐电台</category>
     <category>私密频道</category>
     <category>影视点播</category>
+    <category>直播</category>
     <category>音乐</category>
     <category>都市台</category>
     <category>方言台</category>
     <category>经济台</category>
-    <category>交通台</category>
-    <category>体育台</category>
-    <category>网络台</category>
     <item>
       <title>关于我们</title>
       <link>https://www.viptv.work/about/</link>
@@ -582,9 +580,13 @@
       <link>https://www.viptv.work/archives/</link>
       <guid>https://www.viptv.work/archives/</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-05-29 穿越数个世纪的流淌 米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-05-28 海獭很重要 一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis...</description>
+      <description>2025-05-30 流经烟雾弥漫之地 小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-05-29 穿越数个世纪的流淌 米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty ...</description>
       <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-05-29 穿越数个世纪的流淌</h2>
+      <content:encoded><![CDATA[<h2>2025-05-30 流经烟雾弥漫之地</h2>
+<p>小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-05-29 穿越数个世纪的流淌</h2>
 <p>米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -704,20 +706,8 @@
 <p>从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-04-29 几何之美绽放于此</h2>
-<p>维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>音乐电台</title>
-      <link>https://www.viptv.work/music/</link>
-      <guid>https://www.viptv.work/music/</guid>
-      <source url="https://www.viptv.work/rss.xml">音乐电台</source>
-      <category>音乐电台</category>
-      <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>网络电视</title>
@@ -725,6 +715,14 @@
       <guid>https://www.viptv.work/iptv/</guid>
       <source url="https://www.viptv.work/rss.xml">网络电视</source>
       <category>网络电视</category>
+      <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐电台</title>
+      <link>https://www.viptv.work/music/</link>
+      <guid>https://www.viptv.work/music/</guid>
+      <source url="https://www.viptv.work/rss.xml">音乐电台</source>
+      <category>音乐电台</category>
       <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
     </item>
     <item>
@@ -11240,9 +11238,13 @@
       <link>https://www.viptv.work/archives/2025/2025-05.html</link>
       <guid>https://www.viptv.work/archives/2025/2025-05.html</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-05-29 穿越数个世纪的流淌 米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-05-28 海獭很重要 一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis...</description>
+      <description>2025-05-30 流经烟雾弥漫之地 小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-05-29 穿越数个世纪的流淌 米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty ...</description>
       <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-05-29 穿越数个世纪的流淌</h2>
+      <content:encoded><![CDATA[<h2>2025-05-30 流经烟雾弥漫之地</h2>
+<p>小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-05-29 穿越数个世纪的流淌</h2>
 <p>米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11359,7 +11361,47 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
+    </item>
+    <item>
+      <title>卫视频道</title>
+      <link>https://www.viptv.work/iptv/ws/wspd.html</link>
+      <guid>https://www.viptv.work/iptv/ws/wspd.html</guid>
+      <source url="https://www.viptv.work/rss.xml">卫视频道</source>
+      <description>卫视频道</description>
+      <category>直播</category>
+      <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">卫视频道</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>熊猫频道</title>
+      <link>https://www.viptv.work/iptv/ys/xiongmao.html</link>
+      <guid>https://www.viptv.work/iptv/ys/xiongmao.html</guid>
+      <source url="https://www.viptv.work/rss.xml">熊猫频道</source>
+      <description>熊猫频道</description>
+      <category>直播</category>
+      <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">熊猫频道</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>央视频道</title>
+      <link>https://www.viptv.work/iptv/ys/yspd.html</link>
+      <guid>https://www.viptv.work/iptv/ys/yspd.html</guid>
+      <source url="https://www.viptv.work/rss.xml">央视频道</source>
+      <description>央视频道 本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</description>
+      <category>直播</category>
+      <pubDate>Wed, 28 May 2025 16:32:20 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">央视频道</p>
+<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
+</div>
+]]></content:encoded>
     </item>
     <item>
       <title>户外</title>
@@ -11415,30 +11457,6 @@
       <guid>https://www.viptv.work/music/fm/jjt.html</guid>
       <source url="https://www.viptv.work/rss.xml">经济台</source>
       <category>经济台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>交通台</title>
-      <link>https://www.viptv.work/music/fm/jtt.html</link>
-      <guid>https://www.viptv.work/music/fm/jtt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">交通台</source>
-      <category>交通台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>体育台</title>
-      <link>https://www.viptv.work/music/fm/tyt.html</link>
-      <guid>https://www.viptv.work/music/fm/tyt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">体育台</source>
-      <category>体育台</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络台</title>
-      <link>https://www.viptv.work/music/fm/wlt.html</link>
-      <guid>https://www.viptv.work/music/fm/wlt.html</guid>
-      <source url="https://www.viptv.work/rss.xml">网络台</source>
-      <category>网络台</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
