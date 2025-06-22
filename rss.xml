@@ -6,8 +6,8 @@
     <link>https://www.viptv.work/</link>
     <description>便捷 、高效 、最有价值的视听链</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Jun 2025 16:33:05 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 16:33:05 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 16:30:32 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 16:30:32 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</copyright>
@@ -17,14 +17,16 @@
       <link>https://www.viptv.work/</link>
     </image>
     <category>公告</category>
-    <category>网络电视</category>
     <category>音乐电台</category>
+    <category>网络电视</category>
     <category>私密频道</category>
     <category>影视点播</category>
-    <category>直播</category>
     <category>音乐</category>
     <category>都市台</category>
     <category>方言台</category>
+    <category>经济台</category>
+    <category>交通台</category>
+    <category>体育台</category>
     <item>
       <title>关于我们</title>
       <link>https://www.viptv.work/about/</link>
@@ -579,9 +581,13 @@
       <link>https://www.viptv.work/archives/</link>
       <guid>https://www.viptv.work/archives/</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-06-22 一路丛林 亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-06-21 此花端合在瑶池 雾中莲花，中国佛山 (© huoguangliang/Getty Images) Download 1920 * 1080...</description>
+      <description>2025-06-23 从废墟中重生 德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-06-22 一路丛林 亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images) Download 1920 * 1080...</description>
       <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-06-22 一路丛林</h2>
+      <content:encoded><![CDATA[<h2>2025-06-23 从废墟中重生</h2>
+<p>德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-06-22 一路丛林</h2>
 <p>亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -701,20 +707,8 @@
 <p>挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-05-23 为龟喝彩！</h2>
-<p>停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>网络电视</title>
-      <link>https://www.viptv.work/iptv/</link>
-      <guid>https://www.viptv.work/iptv/</guid>
-      <source url="https://www.viptv.work/rss.xml">网络电视</source>
-      <category>网络电视</category>
-      <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>音乐电台</title>
@@ -722,6 +716,14 @@
       <guid>https://www.viptv.work/music/</guid>
       <source url="https://www.viptv.work/rss.xml">音乐电台</source>
       <category>音乐电台</category>
+      <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络电视</title>
+      <link>https://www.viptv.work/iptv/</link>
+      <guid>https://www.viptv.work/iptv/</guid>
+      <source url="https://www.viptv.work/rss.xml">网络电视</source>
+      <category>网络电视</category>
       <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
     </item>
     <item>
@@ -11371,9 +11373,13 @@
       <link>https://www.viptv.work/archives/2025/2025-06.html</link>
       <guid>https://www.viptv.work/archives/2025/2025-06.html</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-06-22 一路丛林 亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-06-21 此花端合在瑶池 雾中莲花，中国佛山 (© huoguangliang/Getty Images) Download 1920 * 1080...</description>
+      <description>2025-06-23 从废墟中重生 德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images) Download 1920 * 1080 | Download 3840 * 2160 2025-06-22 一路丛林 亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images) Download 1920 * 1080...</description>
       <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-06-22 一路丛林</h2>
+      <content:encoded><![CDATA[<h2>2025-06-23 从废墟中重生</h2>
+<p>德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-06-22 一路丛林</h2>
 <p>亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11462,47 +11468,7 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>卫视频道</title>
-      <link>https://www.viptv.work/iptv/ws/wspd.html</link>
-      <guid>https://www.viptv.work/iptv/ws/wspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">卫视频道</source>
-      <description>卫视频道</description>
-      <category>直播</category>
-      <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>熊猫频道</title>
-      <link>https://www.viptv.work/iptv/ys/xiongmao.html</link>
-      <guid>https://www.viptv.work/iptv/ys/xiongmao.html</guid>
-      <source url="https://www.viptv.work/rss.xml">熊猫频道</source>
-      <description>熊猫频道</description>
-      <category>直播</category>
-      <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>央视频道</title>
-      <link>https://www.viptv.work/iptv/ys/yspd.html</link>
-      <guid>https://www.viptv.work/iptv/ys/yspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">央视频道</source>
-      <description>央视频道 本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</description>
-      <category>直播</category>
-      <pubDate>Sat, 21 Jun 2025 16:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content:encoded>
+      <enclosure url="https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>户外</title>
@@ -11550,6 +11516,30 @@
       <guid>https://www.viptv.work/music/fm/fyt.html</guid>
       <source url="https://www.viptv.work/rss.xml">方言台</source>
       <category>方言台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济台</title>
+      <link>https://www.viptv.work/music/fm/jjt.html</link>
+      <guid>https://www.viptv.work/music/fm/jjt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">经济台</source>
+      <category>经济台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>交通台</title>
+      <link>https://www.viptv.work/music/fm/jtt.html</link>
+      <guid>https://www.viptv.work/music/fm/jtt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">交通台</source>
+      <category>交通台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>体育台</title>
+      <link>https://www.viptv.work/music/fm/tyt.html</link>
+      <guid>https://www.viptv.work/music/fm/tyt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">体育台</source>
+      <category>体育台</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
