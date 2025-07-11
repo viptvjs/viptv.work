@@ -6,18 +6,20 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-07-10T16:37:48.811Z</updated>
+  <updated>2025-07-11T16:34:15.748Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
   <category term="公告"/>
-  <category term="网络电视"/>
   <category term="音乐电台"/>
+  <category term="网络电视"/>
   <category term="私密频道"/>
   <category term="影视点播"/>
-  <category term="直播"/>
   <category term="音乐"/>
   <category term="都市台"/>
+  <category term="方言台"/>
+  <category term="经济台"/>
+  <category term="交通台"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -604,10 +606,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-07-10T16:35:43.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-07-11 把我们都算上</h2>
-<p>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-07-11 把我们都算上</h2>
+    <summary type="html"><![CDATA[<h2>2025-07-12 跟随妈妈的脚步</h2>
+<p>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-07-12 跟随妈妈的脚步</h2>
+<p>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-07-11 把我们都算上</h2>
 <p>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -727,19 +733,7 @@
 <p>奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-06-11 潮汐间的芭蕾</h2>
-<p>大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-07-10T16:35:43.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">网络电视</title>
-    <id>https://www.viptv.work/iptv/</id>
-    <link href="https://www.viptv.work/iptv/"/>
-    <updated>2025-07-10T16:35:43.000Z</updated>
-    <category term="网络电视"/>
     <published>2025-07-10T16:35:43.000Z</published>
   </entry>
   <entry>
@@ -748,6 +742,14 @@
     <link href="https://www.viptv.work/music/"/>
     <updated>2025-07-10T16:35:43.000Z</updated>
     <category term="音乐电台"/>
+    <published>2025-07-10T16:35:43.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络电视</title>
+    <id>https://www.viptv.work/iptv/</id>
+    <link href="https://www.viptv.work/iptv/"/>
+    <updated>2025-07-10T16:35:43.000Z</updated>
+    <category term="网络电视"/>
     <published>2025-07-10T16:35:43.000Z</published>
   </entry>
   <entry>
@@ -11614,10 +11616,14 @@
     <id>https://www.viptv.work/archives/2025/2025-07.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-07.html"/>
     <updated>2025-07-10T16:35:43.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-07-11 把我们都算上</h2>
-<p>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-07-11 把我们都算上</h2>
+    <summary type="html"><![CDATA[<h2>2025-07-12 跟随妈妈的脚步</h2>
+<p>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-07-12 跟随妈妈的脚步</h2>
+<p>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-07-11 把我们都算上</h2>
 <p>日出时的东京，日本 (© pongnathee kluaythong/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11665,56 +11671,6 @@
     <published>2025-07-10T16:35:43.000Z</published>
   </entry>
   <entry>
-    <title type="text">卫视频道</title>
-    <id>https://www.viptv.work/iptv/ws/wspd.html</id>
-    <link href="https://www.viptv.work/iptv/ws/wspd.html"/>
-    <updated>2025-07-10T16:35:43.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-07-10T16:35:43.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">熊猫频道</title>
-    <id>https://www.viptv.work/iptv/ys/xiongmao.html</id>
-    <link href="https://www.viptv.work/iptv/ys/xiongmao.html"/>
-    <updated>2025-07-10T16:35:43.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-07-10T16:35:43.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">央视频道</title>
-    <id>https://www.viptv.work/iptv/ys/yspd.html</id>
-    <link href="https://www.viptv.work/iptv/ys/yspd.html"/>
-    <updated>2025-07-10T16:35:43.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-07-10T16:35:43.000Z</published>
-  </entry>
-  <entry>
     <title type="text">户外</title>
     <id>https://www.viptv.work/music/douyin/huwai.html</id>
     <link href="https://www.viptv.work/music/douyin/huwai.html"/>
@@ -11752,6 +11708,30 @@
     <link href="https://www.viptv.work/music/fm/dst.html"/>
     <updated>2025-07-10T16:35:43.000Z</updated>
     <category term="都市台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">方言台</title>
+    <id>https://www.viptv.work/music/fm/fyt.html</id>
+    <link href="https://www.viptv.work/music/fm/fyt.html"/>
+    <updated>2025-07-10T16:35:43.000Z</updated>
+    <category term="方言台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">经济台</title>
+    <id>https://www.viptv.work/music/fm/jjt.html</id>
+    <link href="https://www.viptv.work/music/fm/jjt.html"/>
+    <updated>2025-07-10T16:35:43.000Z</updated>
+    <category term="经济台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">交通台</title>
+    <id>https://www.viptv.work/music/fm/jtt.html</id>
+    <link href="https://www.viptv.work/music/fm/jtt.html"/>
+    <updated>2025-07-10T16:35:43.000Z</updated>
+    <category term="交通台"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
