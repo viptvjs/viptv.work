@@ -6,8 +6,8 @@
     <link>https://www.viptv.work/</link>
     <description>便捷 、高效 、最有价值的视听链</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Aug 2025 16:36:03 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 16:36:03 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 16:33:28 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 16:33:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</copyright>
@@ -17,12 +17,14 @@
       <link>https://www.viptv.work/</link>
     </image>
     <category>公告</category>
-    <category>网络电视</category>
     <category>音乐电台</category>
+    <category>网络电视</category>
     <category>私密频道</category>
     <category>影视点播</category>
-    <category>直播</category>
     <category>音乐</category>
+    <category>都市台</category>
+    <category>方言台</category>
+    <category>经济台</category>
     <item>
       <title>关于我们</title>
       <link>https://www.viptv.work/about/</link>
@@ -577,9 +579,13 @@
       <link>https://www.viptv.work/archives/</link>
       <guid>https://www.viptv.work/archives/</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-08-03 你好，黄色！ 夏天田野里盛开的向日葵 (© Arsgera/Shutterstock) Download 1920 * 1080 | Download 3840 * 2160 2025-08-02 古老的岩画 圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock) Down...</description>
+      <description>2025-08-04 这是谁的家？ 巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo) Download 1920 * 1080 | Download 3840 * 2160 2025-08-03 你好，黄色！ 夏天田野里盛开的向日葵 (© Arsgera/Shutterstock) Download 19...</description>
       <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-08-03 你好，黄色！</h2>
+      <content:encoded><![CDATA[<h2>2025-08-04 这是谁的家？</h2>
+<p>巢中的乌林鸮, 芬兰 (© <a href="http://imageBROKER.com/Alamy" target="_blank" rel="noopener noreferrer">imageBROKER.com/Alamy</a> Stock Photo)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-03 你好，黄色！</h2>
 <p>夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -699,20 +705,8 @@
 <p>奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-07-03 彩虹河的清澈拥抱</h2>
-<p>彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>网络电视</title>
-      <link>https://www.viptv.work/iptv/</link>
-      <guid>https://www.viptv.work/iptv/</guid>
-      <source url="https://www.viptv.work/rss.xml">网络电视</source>
-      <category>网络电视</category>
-      <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>音乐电台</title>
@@ -720,6 +714,14 @@
       <guid>https://www.viptv.work/music/</guid>
       <source url="https://www.viptv.work/rss.xml">音乐电台</source>
       <category>音乐电台</category>
+      <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络电视</title>
+      <link>https://www.viptv.work/iptv/</link>
+      <guid>https://www.viptv.work/iptv/</guid>
+      <source url="https://www.viptv.work/rss.xml">网络电视</source>
+      <category>网络电视</category>
       <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
     </item>
     <item>
@@ -11629,9 +11631,13 @@
       <link>https://www.viptv.work/archives/2025/2025-08.html</link>
       <guid>https://www.viptv.work/archives/2025/2025-08.html</guid>
       <source url="https://www.viptv.work/rss.xml"></source>
-      <description>2025-08-03 你好，黄色！ 夏天田野里盛开的向日葵 (© Arsgera/Shutterstock) Download 1920 * 1080 | Download 3840 * 2160 2025-08-02 古老的岩画 圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock) Down...</description>
+      <description>2025-08-04 这是谁的家？ 巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo) Download 1920 * 1080 | Download 3840 * 2160 2025-08-03 你好，黄色！ 夏天田野里盛开的向日葵 (© Arsgera/Shutterstock) Download 19...</description>
       <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>2025-08-03 你好，黄色！</h2>
+      <content:encoded><![CDATA[<h2>2025-08-04 这是谁的家？</h2>
+<p>巢中的乌林鸮, 芬兰 (© <a href="http://imageBROKER.com/Alamy" target="_blank" rel="noopener noreferrer">imageBROKER.com/Alamy</a> Stock Photo)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-03 你好，黄色！</h2>
 <p>夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11644,47 +11650,7 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
-    </item>
-    <item>
-      <title>卫视频道</title>
-      <link>https://www.viptv.work/iptv/ws/wspd.html</link>
-      <guid>https://www.viptv.work/iptv/ws/wspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">卫视频道</source>
-      <description>卫视频道</description>
-      <category>直播</category>
-      <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>熊猫频道</title>
-      <link>https://www.viptv.work/iptv/ys/xiongmao.html</link>
-      <guid>https://www.viptv.work/iptv/ys/xiongmao.html</guid>
-      <source url="https://www.viptv.work/rss.xml">熊猫频道</source>
-      <description>熊猫频道</description>
-      <category>直播</category>
-      <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>央视频道</title>
-      <link>https://www.viptv.work/iptv/ys/yspd.html</link>
-      <guid>https://www.viptv.work/iptv/ys/yspd.html</guid>
-      <source url="https://www.viptv.work/rss.xml">央视频道</source>
-      <description>央视频道 本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</description>
-      <category>直播</category>
-      <pubDate>Sat, 02 Aug 2025 16:33:55 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content:encoded>
+      <enclosure url="https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" type="image/"/>
     </item>
     <item>
       <title>户外</title>
@@ -11716,6 +11682,30 @@
       <guid>https://www.viptv.work/music/douyin/wudao.html</guid>
       <source url="https://www.viptv.work/rss.xml">舞蹈</source>
       <category>音乐</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>都市台</title>
+      <link>https://www.viptv.work/music/fm/dst.html</link>
+      <guid>https://www.viptv.work/music/fm/dst.html</guid>
+      <source url="https://www.viptv.work/rss.xml">都市台</source>
+      <category>都市台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>方言台</title>
+      <link>https://www.viptv.work/music/fm/fyt.html</link>
+      <guid>https://www.viptv.work/music/fm/fyt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">方言台</source>
+      <category>方言台</category>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济台</title>
+      <link>https://www.viptv.work/music/fm/jjt.html</link>
+      <guid>https://www.viptv.work/music/fm/jjt.html</guid>
+      <source url="https://www.viptv.work/rss.xml">经济台</source>
+      <category>经济台</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
