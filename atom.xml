@@ -6,17 +6,19 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-08-06T16:39:52.103Z</updated>
+  <updated>2025-08-07T16:37:22.817Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
   <category term="公告"/>
-  <category term="网络电视"/>
   <category term="音乐电台"/>
+  <category term="网络电视"/>
   <category term="私密频道"/>
   <category term="影视点播"/>
-  <category term="直播"/>
   <category term="音乐"/>
+  <category term="都市台"/>
+  <category term="方言台"/>
+  <category term="经济台"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -603,10 +605,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-08-06T16:37:50.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-08-07 海岸的密码</h2>
-<p>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-08-07 海岸的密码</h2>
+    <summary type="html"><![CDATA[<h2>2025-08-08 奔流不息，为你为我</h2>
+<p>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-08-08 奔流不息，为你为我</h2>
+<p>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-07 海岸的密码</h2>
 <p>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -726,19 +732,7 @@
 <p>塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-07-07 闪电俯冲、水花四溅，然后开吃</h2>
-<p>潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-08-06T16:37:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">网络电视</title>
-    <id>https://www.viptv.work/iptv/</id>
-    <link href="https://www.viptv.work/iptv/"/>
-    <updated>2025-08-06T16:37:50.000Z</updated>
-    <category term="网络电视"/>
     <published>2025-08-06T16:37:50.000Z</published>
   </entry>
   <entry>
@@ -747,6 +741,14 @@
     <link href="https://www.viptv.work/music/"/>
     <updated>2025-08-06T16:37:50.000Z</updated>
     <category term="音乐电台"/>
+    <published>2025-08-06T16:37:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络电视</title>
+    <id>https://www.viptv.work/iptv/</id>
+    <link href="https://www.viptv.work/iptv/"/>
+    <updated>2025-08-06T16:37:50.000Z</updated>
+    <category term="网络电视"/>
     <published>2025-08-06T16:37:50.000Z</published>
   </entry>
   <entry>
@@ -11744,10 +11746,14 @@
     <id>https://www.viptv.work/archives/2025/2025-08.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-08.html"/>
     <updated>2025-08-06T16:37:50.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-08-07 海岸的密码</h2>
-<p>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-08-07 海岸的密码</h2>
+    <summary type="html"><![CDATA[<h2>2025-08-08 奔流不息，为你为我</h2>
+<p>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-08-08 奔流不息，为你为我</h2>
+<p>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-07 海岸的密码</h2>
 <p>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11776,56 +11782,6 @@
 <figure><img src="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-08-06T16:37:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">卫视频道</title>
-    <id>https://www.viptv.work/iptv/ws/wspd.html</id>
-    <link href="https://www.viptv.work/iptv/ws/wspd.html"/>
-    <updated>2025-08-06T16:37:50.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-08-06T16:37:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">熊猫频道</title>
-    <id>https://www.viptv.work/iptv/ys/xiongmao.html</id>
-    <link href="https://www.viptv.work/iptv/ys/xiongmao.html"/>
-    <updated>2025-08-06T16:37:50.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-08-06T16:37:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">央视频道</title>
-    <id>https://www.viptv.work/iptv/ys/yspd.html</id>
-    <link href="https://www.viptv.work/iptv/ys/yspd.html"/>
-    <updated>2025-08-06T16:37:50.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content>
-    <category term="直播"/>
     <published>2025-08-06T16:37:50.000Z</published>
   </entry>
   <entry>
@@ -11858,6 +11814,30 @@
     <link href="https://www.viptv.work/music/douyin/wudao.html"/>
     <updated>2025-08-06T16:37:50.000Z</updated>
     <category term="音乐"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">都市台</title>
+    <id>https://www.viptv.work/music/fm/dst.html</id>
+    <link href="https://www.viptv.work/music/fm/dst.html"/>
+    <updated>2025-08-06T16:37:50.000Z</updated>
+    <category term="都市台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">方言台</title>
+    <id>https://www.viptv.work/music/fm/fyt.html</id>
+    <link href="https://www.viptv.work/music/fm/fyt.html"/>
+    <updated>2025-08-06T16:37:50.000Z</updated>
+    <category term="方言台"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">经济台</title>
+    <id>https://www.viptv.work/music/fm/jjt.html</id>
+    <link href="https://www.viptv.work/music/fm/jjt.html"/>
+    <updated>2025-08-06T16:37:50.000Z</updated>
+    <category term="经济台"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
