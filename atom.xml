@@ -6,7 +6,7 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-08-27T16:34:57.381Z</updated>
+  <updated>2025-08-28T16:31:27.100Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
@@ -16,10 +16,7 @@
   <category term="私密频道"/>
   <category term="影视点播"/>
   <category term="直播"/>
-  <category term="都市台"/>
-  <category term="方言台"/>
-  <category term="经济台"/>
-  <category term="交通台"/>
+  <category term="音乐"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -606,10 +603,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-08-28 这只白鹭毫无遗憾</h2>
-<p>大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-08-28 这只白鹭毫无遗憾</h2>
+    <summary type="html"><![CDATA[<h2>2025-08-29 网格的心脏</h2>
+<p>马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-08-29 网格的心脏</h2>
+<p>马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-28 这只白鹭毫无遗憾</h2>
 <p>大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -729,10 +730,6 @@
 <p>雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-07-28 领先一步</h2>
-<p>蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
     <published>2025-08-27T16:32:51.000Z</published>
   </entry>
@@ -11747,10 +11744,14 @@
     <id>https://www.viptv.work/archives/2025/2025-08.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-08.html"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-08-28 这只白鹭毫无遗憾</h2>
-<p>大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-08-28 这只白鹭毫无遗憾</h2>
+    <summary type="html"><![CDATA[<h2>2025-08-29 网格的心脏</h2>
+<p>马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-08-29 网格的心脏</h2>
+<p>马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-08-28 这只白鹭毫无遗憾</h2>
 <p>大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -11916,35 +11917,35 @@
     <published>2025-08-27T16:32:51.000Z</published>
   </entry>
   <entry>
-    <title type="text">都市台</title>
-    <id>https://www.viptv.work/music/fm/dst.html</id>
-    <link href="https://www.viptv.work/music/fm/dst.html"/>
+    <title type="text">户外</title>
+    <id>https://www.viptv.work/music/douyin/huwai.html</id>
+    <link href="https://www.viptv.work/music/douyin/huwai.html"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <category term="都市台"/>
+    <category term="音乐"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">方言台</title>
-    <id>https://www.viptv.work/music/fm/fyt.html</id>
-    <link href="https://www.viptv.work/music/fm/fyt.html"/>
+    <title type="text">音乐</title>
+    <id>https://www.viptv.work/music/douyin/music.html</id>
+    <link href="https://www.viptv.work/music/douyin/music.html"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <category term="方言台"/>
+    <category term="音乐"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">经济台</title>
-    <id>https://www.viptv.work/music/fm/jjt.html</id>
-    <link href="https://www.viptv.work/music/fm/jjt.html"/>
+    <title type="text">情感</title>
+    <id>https://www.viptv.work/music/douyin/qingan.html</id>
+    <link href="https://www.viptv.work/music/douyin/qingan.html"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <category term="经济台"/>
+    <category term="音乐"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">交通台</title>
-    <id>https://www.viptv.work/music/fm/jtt.html</id>
-    <link href="https://www.viptv.work/music/fm/jtt.html"/>
+    <title type="text">舞蹈</title>
+    <id>https://www.viptv.work/music/douyin/wudao.html</id>
+    <link href="https://www.viptv.work/music/douyin/wudao.html"/>
     <updated>2025-08-27T16:32:51.000Z</updated>
-    <category term="交通台"/>
+    <category term="音乐"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
