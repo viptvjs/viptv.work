@@ -6,17 +6,17 @@
   <icon>https://www.viptv.work/favicon.ico</icon>
   <logo>https://www.viptv.work/assets/png/VIPTV-LOGO-192x192.png</logo>
   <rights>基于MIT 协议 | 版权所有 © 2020-至今 Mr.HeFung</rights>
-  <updated>2025-10-14T16:34:15.902Z</updated>
+  <updated>2025-10-15T16:28:16.225Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://www.viptv.work/atom.xml"/>
   <link rel="alternate" href="https://www.viptv.work/"/>
   <category term="公告"/>
-  <category term="网络电视"/>
   <category term="音乐电台"/>
+  <category term="网络电视"/>
   <category term="私密频道"/>
   <category term="影视点播"/>
-  <category term="直播"/>
   <category term="音乐"/>
+  <category term="都市台"/>
   <entry>
     <title type="text">关于我们</title>
     <id>https://www.viptv.work/about/</id>
@@ -603,10 +603,14 @@
     <id>https://www.viptv.work/archives/</id>
     <link href="https://www.viptv.work/archives/"/>
     <updated>2025-10-14T16:32:46.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-10-15 孢子奇遇记</h2>
-<p>紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-10-15 孢子奇遇记</h2>
+    <summary type="html"><![CDATA[<h2>2025-10-16 幽灵之猫</h2>
+<p>欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-10-16 幽灵之猫</h2>
+<p>欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-10-15 孢子奇遇记</h2>
 <p>紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -726,19 +730,7 @@
 <p>从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
-<h2>2025-09-15 涉水寻迹</h2>
-<p>黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><a href="https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
 ]]></content>
-    <published>2025-10-14T16:32:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">网络电视</title>
-    <id>https://www.viptv.work/iptv/</id>
-    <link href="https://www.viptv.work/iptv/"/>
-    <updated>2025-10-14T16:32:46.000Z</updated>
-    <category term="网络电视"/>
     <published>2025-10-14T16:32:46.000Z</published>
   </entry>
   <entry>
@@ -747,6 +739,14 @@
     <link href="https://www.viptv.work/music/"/>
     <updated>2025-10-14T16:32:46.000Z</updated>
     <category term="音乐电台"/>
+    <published>2025-10-14T16:32:46.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">网络电视</title>
+    <id>https://www.viptv.work/iptv/</id>
+    <link href="https://www.viptv.work/iptv/"/>
+    <updated>2025-10-14T16:32:46.000Z</updated>
+    <category term="网络电视"/>
     <published>2025-10-14T16:32:46.000Z</published>
   </entry>
   <entry>
@@ -12010,10 +12010,14 @@
     <id>https://www.viptv.work/archives/2025/2025-10.html</id>
     <link href="https://www.viptv.work/archives/2025/2025-10.html"/>
     <updated>2025-10-14T16:32:46.000Z</updated>
-    <summary type="html"><![CDATA[<h2>2025-10-15 孢子奇遇记</h2>
-<p>紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)</p>
-<figure><img src="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<h2>2025-10-15 孢子奇遇记</h2>
+    <summary type="html"><![CDATA[<h2>2025-10-16 幽灵之猫</h2>
+<p>欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h2>2025-10-16 幽灵之猫</h2>
+<p>欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)</p>
+<figure><img src="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><a href="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
+<h2>2025-10-15 孢子奇遇记</h2>
 <p>紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)</p>
 <figure><img src="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><a href="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=1920&amp;h=1080&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 1920 * 1080</a> | <a href="https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&amp;rf=LaDigue_UHD.jpg&amp;pid=hp&amp;w=3840&amp;h=2160&amp;rs=1&amp;c=4" target="_blank" rel="noopener noreferrer">Download 3840 * 2160</a></p>
@@ -12077,56 +12081,6 @@
     <published>2025-10-14T16:32:46.000Z</published>
   </entry>
   <entry>
-    <title type="text">卫视频道</title>
-    <id>https://www.viptv.work/iptv/ws/wspd.html</id>
-    <link href="https://www.viptv.work/iptv/ws/wspd.html"/>
-    <updated>2025-10-14T16:32:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">卫视频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-10-14T16:32:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">熊猫频道</title>
-    <id>https://www.viptv.work/iptv/ys/xiongmao.html</id>
-    <link href="https://www.viptv.work/iptv/ys/xiongmao.html"/>
-    <updated>2025-10-14T16:32:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">熊猫频道</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-10-14T16:32:46.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">央视频道</title>
-    <id>https://www.viptv.work/iptv/ys/yspd.html</id>
-    <link href="https://www.viptv.work/iptv/ys/yspd.html"/>
-    <updated>2025-10-14T16:32:46.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container tip">
-<p class="hint-container-title">央视频道</p>
-<p>本站为非盈利网站,內容出自原创和互联网, 如有侵权请及时联系我们删除！本站不承担任何争议和法律责任！</p>
-</div>
-]]></content>
-    <category term="直播"/>
-    <published>2025-10-14T16:32:46.000Z</published>
-  </entry>
-  <entry>
     <title type="text">户外</title>
     <id>https://www.viptv.work/music/douyin/huwai.html</id>
     <link href="https://www.viptv.work/music/douyin/huwai.html"/>
@@ -12140,6 +12094,30 @@
     <link href="https://www.viptv.work/music/douyin/music.html"/>
     <updated>2025-10-14T16:32:46.000Z</updated>
     <category term="音乐"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">情感</title>
+    <id>https://www.viptv.work/music/douyin/qingan.html</id>
+    <link href="https://www.viptv.work/music/douyin/qingan.html"/>
+    <updated>2025-10-14T16:32:46.000Z</updated>
+    <category term="音乐"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">舞蹈</title>
+    <id>https://www.viptv.work/music/douyin/wudao.html</id>
+    <link href="https://www.viptv.work/music/douyin/wudao.html"/>
+    <updated>2025-10-14T16:32:46.000Z</updated>
+    <category term="音乐"/>
+    <published>2020-01-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">都市台</title>
+    <id>https://www.viptv.work/music/fm/dst.html</id>
+    <link href="https://www.viptv.work/music/fm/dst.html"/>
+    <updated>2025-10-14T16:32:46.000Z</updated>
+    <category term="都市台"/>
     <published>2020-01-01T00:00:00.000Z</published>
   </entry>
 </feed>
